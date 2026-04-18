@@ -1,14 +1,14 @@
 const profile = {
-  name: "Your Name",
-  handle: "@yourhandle",
-  bio: "Developer, creator, and lifelong learner. Connect with me on these platforms.",
+  name: "Jez Cortez",
+  handle: "@jezcortez",
+  bio: "Developer, Creator, and Gamer. Connect with me on these platforms.",
   avatarText: "YN",
   links: [
-    { label: "Portfolio", url: "https://yourwebsite.com", accent: "#0e9f8b" },
-    { label: "GitHub", url: "https://github.com/yourusername", accent: "#2563eb" },
-    { label: "LinkedIn", url: "https://linkedin.com/in/yourusername", accent: "#f97316" },
-    { label: "X / Twitter", url: "https://x.com/yourusername", accent: "#0284c7" },
-    { label: "Instagram", url: "https://instagram.com/yourusername", accent: "#dc2626" }
+    { label: "Portfolio", url: "https://jezcortez.dev", accent: "#0e9f8b" },
+    { label: "GitHub", url: "https://github.com/jezcortez", accent: "#2563eb" },
+    { label: "LinkedIn", url: "www.linkedin.com/in/jez-kendrick-cortez-8b7580338", accent: "#f97316" },
+    { label: "X / Twitter", url: "https://x.com/Jezzy_31", accent: "#0284c7" },
+    { label: "YouTube", url: "https://www.youtube.com/@jezzy4491", accent: "#dc2626" }
   ]
 };
 
